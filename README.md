@@ -15,7 +15,7 @@ I'm a **Third Year Student🎓 [@ Cal Poly Pomona](https://www.cpp.edu/)** major
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m developing a social media app built for students **[@ Cal Poly Pomona ](https://www.cpp.edu/) leading a team of students to bring this project to life!**
+- 🔭 I’m developing a social media app built for students **[@ Cal Poly Pomona ](https://www.cpp.edu/)** leading a team of students to bring this project to life!**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
   - 📊 Machine Learning & Data Science
   - 🔧 Full-Stack Development
