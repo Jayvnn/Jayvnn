@@ -37,8 +37,11 @@ I'm a **Third Year Student🎓 [@ Cal Poly Pomona](https://www.cpp.edu/)** major
 <code><img height="30" src="https://github.com/user-attachments/assets/23dea773-766e-44e9-bbe7-c2fabdda0cd7"></code>
 
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jayvnn&theme=dark&hide_border=false)<br/>
+
 <!--- <p align="center">
 <img width="450" align="left" src="https://github-readme-stats.vercel.app/api?username=jayvnn&show_icons=true&line_height=21&theme=react" alt="jayvnn's Github Stats" />
+![](https://github-readme-stats.vercel.app/api?username=Jayvnn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 </p> --!>
 
 
