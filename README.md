@@ -22,7 +22,7 @@ I'm a **Third Year Student🎓 [@ Cal Poly Pomona](https://www.cpp.edu/)** major
   - 🧩 Problem-Solving Challenges
   - 🤝 Collaborative Projects
   - 💻 Innovative App Development
-- 📙 Check out my [Resume](https://www.linkedin.com/in/jaydenvinhnguyen/)
+- 📙 Check out my [LinkedIn](https://www.linkedin.com/in/jaydenvinhnguyen/)
 - 🎉 Fun-Fact: I ❤️ Tennis and checking out the latest tech news!
 
 ### ⚙️ Some Tool and Tech I use
