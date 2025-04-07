@@ -48,7 +48,7 @@ I'm a **Third Year Student🎓 [@ Cal Poly Pomona](https://www.cpp.edu/)** major
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=jayvnn) -->
 
 
-<details>
+<!--- <details>
 <summary> 💥 Working on </summary>
 <br>
 <p align="left">
@@ -56,4 +56,4 @@ I'm a **Third Year Student🎓 [@ Cal Poly Pomona](https://www.cpp.edu/)** major
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BroncoBond&repo=Bronco-Bond&theme=react" alt="Bronco-Bond Repository" />
   </a>
 </p>
-</details> 
+<!--- </details> -->
