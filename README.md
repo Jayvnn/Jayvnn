@@ -8,7 +8,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Jayden.vinh.nguyen@gmail.com)](mailto:Jayden.vinh.nguyen@gmail.com)
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **Fourth Year Student🎓 [@ Cal Poly Pomona](https://www.cpp.edu/)** majoring in Computer Science. I'm a Tech Enthusiast 💻 🚀 who loves diving into new tech and bringing ideas to life. Creating impactful products that solve real problems is what excites me. <br/><br/>
+I'm a **Fourth Year Student 🎓 [@ Cal Poly Pomona](https://www.cpp.edu/)** majoring in Computer Science. I'm a Tech Enthusiast 💻 🚀 who loves diving into new tech and bringing ideas to life. Creating impactful products that solve real problems is what excites me. <br/><br/>
 
 
 
